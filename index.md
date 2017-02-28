@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## 知道自己照片差在哪，才是进步的开始
 
-You can use the [editor on GitHub](https://github.com/raawaa/wx_photo_poll/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你是否曾经为她的“明眸如月，靡颜腻理”怦然心动，却不知如何将她的美丽容颜用快门刻画成永恒而感到遗憾？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你是否曾因为“携手与你，看风光万里”而在内心掀起了一层层涟漪，却苦于不知如何摆弄手中的相机，任时光刮去了一层层回忆？
 
-### Markdown
+你是否曾听过他人一遍又一遍空述当年“燃情岁月”，感叹“光阴荏苒，岁月无情”，却无法感同身受当年的“豪情壮志”？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+能源保障部工会将于3月下旬邀请上海机场集团摄影协会会长——何力平先生，通过“评片会”的形式，为大家解读手机摄影。欢迎大家带着自己最满意的照片，开启评片模式，发现优点，指出问题，互相进步。
 
-```markdown
-Syntax highlighted code block
+别忘了通过微信末尾的二维码（或其他路径）提交您的照片和拍摄感想。认识到自己照片中有哪些不足，你离进步就已经不远了！
 
-# Header 1
-## Header 2
-### Header 3
+### 一、课程内容
 
-- Bulleted
-- List
+1. 从众多投稿照片中选出10张进行点评（入选照片将获得纪念品一份）
 
-1. Numbered
-2. List
+2. 指出每张照片的亮点，提出构图、色彩、参数、后期等问题
 
-**Bold** and _Italic_ and `Code` text
+3. 给出相应的解决方案
 
-[Link](url) and ![Image](src)
-```
+4. 实时提问&互动
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 二、报名范围
 
-### Jekyll Themes
+能源保障部在职职工、能源保障部所属委托单位职工
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raawaa/wx_photo_poll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 三、报名方式征稿时间
 
-### Support or Contact
+自即日起——3月10日，通过报名微信，提交照片的同仁，均有机会参与此次评片会。名额有限，速速报名偶。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we鈥檒l help you sort it out.
+二、照片要求： 
+
+1.作品主题不限，黑白、彩色不限，作品单幅、组照不限，组照数量控制在6张以内，确保为本人原创作品。
+
+2.作品须为数码图像文件，文件格式为JPG(JPEG)或RAW文件格式，单张照片不小于2MB。
+
+3.请遵守相关法律规定，作品所涉及的著作权、肖像权、名誉权等法律责任由作者自负。
+
+
+投稿链接
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
